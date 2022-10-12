@@ -5,12 +5,11 @@ body{
     font-family: 'Roboto';
 }
 .wrapper {
-    width: 1200px;
     margin: 0 auto;
 }
 .header-container{
     background: #27323E;
-    height: 820px;
+    height: 720px;
 }
 header{
     display: flex;
@@ -75,9 +74,9 @@ header a:hover{
     text-align: center;
 }
 .hero-content{
-    padding-top: 10px;
+    padding-top: 5px;
     padding-left: 90px;
 }
 .hero-image{
-    padding-top: 85px;
+    padding-top: 75px;
 }
