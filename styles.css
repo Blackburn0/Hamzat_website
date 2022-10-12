@@ -1,0 +1,9 @@
+section{
+    background-color: rgb(73, 82, 82);
+}
+a {
+    color: rgb(14, 22, 22);
+}
+a:hover {
+    color: beige;
+}
