@@ -1,9 +1,34 @@
-section{
-    background-color: rgb(73, 82, 82);
+.one {
+    width: 1280px;
+    height: 720px;
+    background-color: #27323E;
 }
-a {
-    color: rgb(14, 22, 22);
+.two {
+    background-color: #212529;
+    color: #FFFFFF;
 }
-a:hover {
-    color: beige;
+.img1{
+    position: absolute;
+    width: 470.66px;
+    height: 462.5px;
+    left: 380px;
+    top: 108px;
+}
+.left{
+    color: aliceblue;
+    position: absolute;
+    width: 681px;
+    height: 451px;
+    padding-left: 35px;
+    padding-top: 51px;
+    border-radius: [object Object]px;
+}
+.h3{
+    position: absolute;
+width: 134px;
+height: 64px;
+left: 128px;
+top: 179px;
+    background: linear-gradient(108.35deg, #FC4A1A -36.03%, #F7B733 128.44%);
+border-radius: 40px 40px 40px 0px;
 }
