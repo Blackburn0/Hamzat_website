@@ -84,7 +84,7 @@ header a:hover{
 
 .section-one-container{
     height: 720px;
-    background-color: #212529;;
+    background-color: #212529;
 }
 .section-one-wrapper{
     margin: 0 auto;   
@@ -127,6 +127,49 @@ header a:hover{
     line-height: 59px;
     background-image: url("images/Ellipse 4.png");
     background-repeat: no-repeat;
-    /* background-position: ; */
     padding-left: 26px;
+}
+
+
+.section-two{
+    /* color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 148px;
+    padding-top: 167px;
+    padding-bottom: 168px;
+    padding-right: 149px; */
+    color: #FFFFFF;;
+    height: 720px;
+    background: #27323E;
+}
+.section-two p{
+    font-size: 18px;
+}
+.section-two h2{
+    font-size: 28px;
+}
+.section-two-header{
+    /* line-height: 59px; */
+    background-image: url("images/Ellipse 4.png");
+    background-repeat: no-repeat;
+    padding-left: 26px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70%;
+}
+/* .section-two-header h2{
+    font-size: 50px;
+    text-align: center;
+} */
+.section-two img{     
+    width: 68px;
+    height: 68px;
+}
+.section-two-left{
+
+}
+.section-two-right{
+
 }
