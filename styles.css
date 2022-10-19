@@ -5,6 +5,10 @@
 body{
     font-family: 'Roboto';
 }
+
+
+/* main start */
+
 .wrapper {
     margin: 0 auto;
 }
@@ -81,6 +85,11 @@ header a:hover{
 .hero-image{
     padding-top: 75px;
 }
+/* main end */
+
+
+
+/* About me start */
 
 .section-one-container{
     height: 720px;
@@ -130,16 +139,12 @@ header a:hover{
     padding-left: 26px;
 }
 
+/* About me end */
+
+
+/* My services start */
 
 .section-two{
-    /* color: #FFFFFF;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-left: 148px;
-    padding-top: 167px;
-    padding-bottom: 168px;
-    padding-right: 149px; */
     color: #FFFFFF;;
     height: 720px;
     background: #27323E;
@@ -154,22 +159,30 @@ header a:hover{
     /* line-height: 59px; */
     background-image: url("images/Ellipse 4.png");
     background-repeat: no-repeat;
-    padding-left: 26px;
-    align-items: center;
-    justify-content: center;
+    /* padding-left: 26px; */
+    /* align-items: center; */
+    /* justify-content: center; */
     margin-left: 70%;
+    padding-top: 55px;
+    padding-bottom: 44px;
 }
 /* .section-two-header h2{
     font-size: 50px;
     text-align: center;
 } */
-.section-two img{     
-    width: 68px;
-    height: 68px;
+
+.three-col{
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
 }
+
 .section-two-left{
-
+    /* align-content: right; */
+    text-align: right;
+    line-height: 21px;
 }
-.section-two-right{
 
-}
+
+
+/* My services end */
