@@ -155,16 +155,18 @@ header a:hover{
 .section-two h2{
     font-size: 28px;
 }
+
 .section-two-header{
+    padding-top: 55px;
+    padding-bottom: 44px;
+}
+
+.section-two-header h2{
+    /* font-size: 50px; */
     /* line-height: 59px; */
     background-image: url("images/Ellipse 4.png");
     background-repeat: no-repeat;
     /* padding-left: 26px; */
-    /* align-items: center; */
-    /* justify-content: center; */
-    margin-left: 70%;
-    padding-top: 55px;
-    padding-bottom: 44px;
 }
 /* .section-two-header h2{
     font-size: 50px;
@@ -175,6 +177,8 @@ header a:hover{
     display: flex;
     flex-direction: row;
     font-size: 18px;
+    padding-bottom: 63px;
+
 }
 
 .section-two-left{
@@ -182,7 +186,8 @@ header a:hover{
     text-align: right;
     line-height: 21px;
 }
-
-
+.section-two-left-one{
+    display: flex;
+}
 
 /* My services end */
