@@ -167,24 +167,20 @@ header a:hover{
     /* font-size: 50px; */
     /* line-height: 59px; */
     background-image: url("images/Ellipse 4.png");
+    /* background: linear-gradient(108.7deg, #FC4A1A -29.1%, #F7B733 97.76%); */
+
     background-repeat: no-repeat;
     /* padding-left: 26px; */
 }
-/* .section-two-header h2{
-    font-size: 50px;
-    text-align: center;
-} */
 
 .three-col{
     display: flex;
     flex-direction: row;
     font-size: 18px;
-    padding-bottom: 63px;
+    padding-bottom: 53px;
 
 }
-
 .section-two-left{
-    /* align-content: right; */
     text-align: right;
     line-height: 21px;
 }
@@ -192,4 +188,31 @@ header a:hover{
     display: flex;
 }
 
+
+
 /* My services end */
+
+
+
+/* Portfolio start */
+.section-three{
+    height: 800px;
+    background-color: #212529;
+
+    /* background: url(images/Rectangle\ 27.png) */
+}
+.section-three-head{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+/* Portfolio end */
