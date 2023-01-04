@@ -146,7 +146,7 @@ header a:hover{
 
 .section-two{
     color: #FFFFFF;;
-    height: 720px;
+    height: 890px;
     background: #27323E;
 }
 .section-two p{
@@ -210,9 +210,13 @@ header a:hover{
     /* identical to box height */
 
     display: flex;
-    align-items: center;
+    /* align-items: center; */
 
     color: #FFFFFF;
 
+}
+.section-three-head h2{
+    padding-top: 100px;
+    text-align: center;
 }
 /* Portfolio end */
